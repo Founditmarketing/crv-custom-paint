@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /wp-json/
+Disallow: /wp-includes/
+Disallow: /feed/
+Disallow: /comments/
+
+Sitemap: https://crvcustompaintingla.com/sitemap.xml
